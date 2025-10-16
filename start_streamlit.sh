@@ -125,3 +125,4 @@ trap 'echo; print_status "Arrêt du serveur Streamlit..."; exit 0' INT
 # Exécution du script
 main "$@"
 
+
